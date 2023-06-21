@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ari3ll3
+- 👋 Hi, I’m @arielle-code
 - 👀 I’m interested in developing smart contracts (Master Blockchain Developer course @ Koinsquare Italy)
 - 🌱 I’m currently learning how to develop smart contracts
 - 💞️ I’m looking to collaborate on smart contracts at a basic level. I am learning very fast.
